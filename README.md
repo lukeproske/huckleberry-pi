@@ -1,4 +1,4 @@
-(Image)
+![bumbleberry-1-small](https://github.com/user-attachments/assets/0861c220-9c7e-4fc5-81a6-36195ce6dd99)
 
 # Bramble Berry Pi
 A cheap, easy-to-build Raspberry Pi Cyberdeck
