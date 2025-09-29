@@ -9,6 +9,7 @@ A cheap, easy-to-build Raspberry Pi Cyberdeck
 - I wanted something small enough to fit into a pant pocket, so I can easily take it anywhere, but with a large enough screen to do useful things like writing little programs, running scripts, etc
 - I wanted to build this quickly & cheaply, with as many off-the-shelf components as possible
 - I mostly boot to the terminal interface, but I occasionally use the GUI
+- I wanted to use the Raspberry Pi's I already owned, rather than having to buy a new compute module
 
 # Key Features
 - 4.3” Touch Screen Display
