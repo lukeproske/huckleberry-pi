@@ -1,0 +1,54 @@
+(Image)
+
+# Bramble Berry Pi
+A cheap, easy-to-build Raspberry Pi Cyberdeck
+
+# Why Another Cyberdeck?
+- I wanted a Clockwork Pi uConsole, but didn’t want to wait 90 business days
+- I have a Raspberry Pi Touch Display, but I don’t like the on-screen keyboard interface. It seems to pop-up at inconvenient times.
+- I wanted something small enough to fit into a pant pocket, so I can easily take it anywhere, but with a large enough screen to do useful things like writing little programs, running scripts, etc
+- I wanted to build this quickly & cheaply, with as many off-the-shelf components as possible
+- I mostly boot to the terminal interface, but I occasionally use the GUI
+
+# Key Features
+- 4.3” Touch Screen Display
+- Nice sized QWERTY keypad
+- 37 Watt-hour battery (all day battery life with Raspberry Pi 3)
+- Only 2 3D-Printed Parts
+- Minimal assembly required
+- All parts available on Amazon
+- Cost: ~$60 worth of Amazon parts, not including the raspberry pi
+
+# Parts List
+| Part | QTY | Cost | Buy Link | Notes |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Raspberry Pi | 1 | $50 | [Amazon](https://www.amazon.com/Raspberry-Pi-Model-Board-Plus/dp/B0BNJPL4MW) | Pick your favorite. I picked a 3b+ for low cost and low power usage |
+| 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://www.amazon.com/dp/B0DDC4KKKF) | |
+| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://www.amazon.com/dp/B0B46F8RS6) |  |
+| 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://www.amazon.com/dp/B0CB1FW5FC) | Comes with short USB-C cable |
+| USB-C to Micro-USB U-Shaped Adapter | 1 | $10 | [Amazon](https://www.amazon.com/dp/B0DR7D18LC) |  |
+| USB-C Right Angle Adapter | 1 | $9 | [Amazon](https://www.amazon.com/dp/B0BRCN4FKB) |  |
+| M3x10mm Countersunk Head Bolt | 6 |  | [Amazon]() |  |
+| M2.5x8mm Socket Head Bolt | 4 |  | [Amazon]() |  |
+| M3 Threaded Inserts | 6 |  | [Amazon](https://www.amazon.com/dp/B09TNK8GD6) |  |
+| 2" Kapton Tape | 1 ft |  | [Amazon]() | You could use another type of double-sided tape |
+| bumble-berry-pi-enclosure-A-v3.STL | 1 |  |  | Download from this repo an print on a 3D printer using PLA |
+| bumble-berry-pi-enclosure-B-v3.STL | 1 |  |  | Download from this repo an print on a 3D printer using PLA |
+
+# Tools Required
+- Small phillips screw driver
+- M2.5mm hex driver
+- Soldering iron
+
+# Assembly Instructions
+1. 3D print the two enclosure parts in PLA
+2. Insert the 6 threaded inserts using a soldering iron (I always love this part)
+3. Attach the raspberry pi to the screen using 4 phillips screws
+4. Plug the ribbon cable into the rapsberry pi & display
+5. Attach the screen to the front eclosure using 4 M2.5x6mm socket head bolts
+6. Place the front enclosure face down on a table and insert the keyboard
+7. Add a piece of double-sided kapton tape to the back of the keyboard
+8. Place the USB power bank in the front encloser
+9. Add a piece of double-sided kapton tape to the back of the power bank
+10. Route the USB cables & adapters as shown
+11. Screw the enclosure back onto the enclosure front using 6 M3x10mm countersunk head bolts
