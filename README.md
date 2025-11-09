@@ -54,3 +54,6 @@ Please note: Assembly instructions are a work in progress. Please let me know if
 9. Add a piece of double-sided kapton tape to the back of the power bank
 10. Route the USB cables & adapters as shown
 11. Screw the enclosure back onto the enclosure front using 6 M3x10mm countersunk head bolts
+
+# Design Notes
+I designed the 3D parts in Solidworks. Let me know if you're interested in the modifying the design and I can post the solidworks files.
