@@ -44,7 +44,7 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 # Assembly Instructions
 Please note: Assembly instructions are a work in progress. Please let me know if you'd like additional instructions/videos, etc and I will do my best to provide them.
 1. 3D print the two enclosure parts in PLA
-2. Insert the 6 threaded inserts using a soldering iron (I always love this part)
+2. Insert the 6 threaded inserts using a soldering iron (I always love this part). If you haven't done this before, here is a short youtube video showing how: https://www.youtube.com/shorts/iar6NPHNPfY
 3. Attach the raspberry pi to the screen using 4 phillips screws
 4. Plug the ribbon cable into the rapsberry pi & display
 5. Attach the screen to the front eclosure using 4 M2.5x6mm socket head bolts
