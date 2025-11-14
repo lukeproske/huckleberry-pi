@@ -44,7 +44,11 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 - Soldering iron
 
 # Assembly Instructions
-[Youtube Video - How To Assembly the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
+## Assembly Videos
+1. First, install the threaded inserts into the front enclosure part A. I forgot to include this in my assembly video below, so here is a generic video on how to install threaded inserts into a 3D printed part: [Youtube Video - How To Install Threaded Inserts](https://www.youtube.com/shorts/iar6NPHNPfY)
+2. [Youtube Video - How To Assembly the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
+
+## Assembly Instructions
 1. 3D print the two enclosure parts in PLA
 2. Insert the 6 threaded inserts using a soldering iron (I always love this part). If you haven't done this before, here is a short youtube video showing how: https://www.youtube.com/shorts/iar6NPHNPfY
 3. Attach the raspberry pi to the screen using 4 phillips screws
@@ -59,3 +63,6 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 
 # Design Notes
 I designed the 3D parts in Solidworks. Let me know if you're interested in the modifying the design and I can post the solidworks files.
+
+<img width="500" alt="BumbleBerryPi" src="https://github.com/user-attachments/assets/aef40629-dcd0-4ca7-b8af-2083a04ff01f" />
+
