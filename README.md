@@ -21,20 +21,22 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 - Cost: ~$60 worth of Amazon parts, not including the raspberry pi
 
 # Parts List
+*As an Amazon Associate I earn from qualifying purchases*
 | Part | QTY | Cost | Buy Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Raspberry Pi | 1 | $50 | [Amazon](https://www.amazon.com/Raspberry-Pi-Model-Board-Plus/dp/B0BNJPL4MW) | Pick your favorite. I picked a 3b+ for low cost and low power usage |
-| 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://www.amazon.com/dp/B0DDC4KKKF) | |
-| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://www.amazon.com/dp/B0B46F8RS6) |  |
-| 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://www.amazon.com/dp/B0CB1FW5FC) | Comes with short USB-C cable |
-| USB-C to Micro-USB U-Shaped Adapter | 1 | $10 | [Amazon](https://www.amazon.com/dp/B0DR7D18LC) |  |
-| USB-C Right Angle Adapter | 1 | $9 | [Amazon](https://www.amazon.com/dp/B0BRCN4FKB) |  |
-| M3x10mm Countersunk Head Bolt | 6 |  | [Amazon]() |  |
-| M2.5x8mm Socket Head Bolt | 4 |  | [Amazon]() |  |
-| M3 Threaded Inserts | 6 |  | [Amazon](https://www.amazon.com/dp/B09TNK8GD6) |  |
-| 2" Kapton Tape | 1 ft |  | [Amazon]() | You could use another type of double-sided tape |
+| Raspberry Pi | 1 | $50 | [Amazon](https://amzn.to/48danKa) | Pick your favorite. I picked a 3b+ for low cost and low power usage |
+| 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://amzn.to/43xmWNH) | |
+| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://amzn.to/4oGfgkX) |  |
+| 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://amzn.to/3LCkwY6) | Comes with short USB-C cable |
+| USB-C to Micro-USB U-Shaped Adapter | 1 | $10 | [Amazon](https://amzn.to/49fzCMZ) |  |
+| USB-C Right Angle Adapter | 1 | $9 | [Amazon](https://amzn.to/4oeygGd) |  |
+| M3x10mm Countersunk Head Bolt | 6 |  |  |  |
+| M2.5x8mm Socket Head Bolt | 4 |  |  |  |
+| M3 Threaded Inserts | 6 |  | [Amazon](https://amzn.to/4nOlhul) |  |
+| 2" Kapton Tape | 1 ft |  |  | You could use another type of double-sided tape |
 | bumble-berry-pi-enclosure-A-v3.STL | 1 |  |  | Download from this repo an print on a 3D printer using PLA |
 | bumble-berry-pi-enclosure-B-v3.STL | 1 |  |  | Download from this repo an print on a 3D printer using PLA |
+
 
 # Tools Required
 - Small phillips screw driver
