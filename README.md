@@ -19,7 +19,7 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 - 37 Watt-hour battery (all day battery life with Raspberry Pi 3b+)
 - Only 2 3D-Printed Parts
 - Able to use a Rapsberry Pi that you probably already own
-- Quick & easy to assemble (~5 minutes excluding 3D printing time): [Assembly Video](https://www.youtube.com/watch?v=gBCb1FS4pzc)
+- Quick & easy to assemble: ~5 minutes (excluding 3D printing time): [Assembly Video](https://www.youtube.com/watch?v=gBCb1FS4pzc)
 - All parts available on Amazon (excluding 3D printed parts)
 - Cost: ~$60 worth of Amazon parts, not including the raspberry pi, bolts, & kapton tape.
 
@@ -28,7 +28,7 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 | Part | QTY | Cost | Buy Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Raspberry Pi | 1 | $53-$87 | [Pi 3b+](https://amzn.to/48danKa), [Pi 4](https://amzn.to/4oCPuxP), or [Pi 5](https://amzn.to/4hYrimS) | Pick your favorite Pi Model. I personally prefer a 3b+ for low cost and low power usage because I mostly use terminal and only occasionally use the GUI. |
-| SD Card | 1 | $20 | [Amazon](https://amzn.to/3LFhqTe) | In case you don't already have one lying around |
+| SD Card | 1 | $20 | [Amazon](https://amzn.to/3LFhqTe) | In case you don't already have one |
 | 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://amzn.to/43xmWNH) | This Freenove screen has a nice bright display and is pretty durable |
 | Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://amzn.to/4oGfgkX) | This connects via bluetooth to the pi minimize the cabling required |
 | 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://amzn.to/3LCkwY6) | Includes a short USB-C power cable |
@@ -44,8 +44,8 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 
 # Tools Required
 - Small phillips screw driver
-- M2.5mm hex driver
-- Soldering iron
+- M2.5mm hex driver: [Individual Driver](https://amzn.to/4qYnwyh), [My Favorite Kit](https://amzn.to/443yxnS)
+- Soldering iron (for installing the threaded inserts into the 3D printed parts): [Basic](https://amzn.to/3LQfKpT), [Premium - My Favorite](https://amzn.to/47LmWw4)
 - Scissors
 
 # Assembly Instructions - Videos
