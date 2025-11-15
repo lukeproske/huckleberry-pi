@@ -30,7 +30,7 @@ A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 | Raspberry Pi | 1 | $53-$87 | [Pi 3b+](https://amzn.to/48danKa), [Pi 4](https://amzn.to/4oCPuxP), or [Pi 5](https://amzn.to/4hYrimS) | Pick your favorite Pi Model. I personally prefer a 3b+ for low cost and low power usage because I mostly use terminal and only occasionally use the GUI. |
 | SD Card | 1 | $20 | [Amazon](https://amzn.to/3LFhqTe) | In case you don't already have one |
 | 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://amzn.to/43xmWNH) | This Freenove screen has a nice bright display and is pretty durable |
-| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://amzn.to/4oGfgkX) | This connects via bluetooth to the pi minimize the cabling required |
+| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://amzn.to/4oGfgkX) | This keyboard connects to the pi via bluetooth. This has a number of benefits, including minimizing the cabling required. I was initially skeptical at using a Bluetooth keyboard, but I found this one works surprisingly well. |
 | 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://amzn.to/3LCkwY6) | Includes a short USB-C power cable |
 | USB-C to Micro-USB U-Shaped Adapter | 1 | $10 | [Amazon](https://amzn.to/49fzCMZ) | This comes in a variety-pack, however, you only need one specific part. You could probably find a cheaper one. |
 | USB-C Right Angle Adapter | 1 | $9 | [Amazon](https://amzn.to/4oeygGd) | You could probably find a cheaper one, but this one looks nice |
