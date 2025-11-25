@@ -5,8 +5,8 @@
 # Bumble Berry Pi
 A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
 
-# Why Another Cyberdeck?
-- I wanted a Clockwork Pi uConsole, but didn’t want to wait 90 business days
+# Why Build A Cyberdeck?
+- I wanted fully self-contained raspberry pi handheld device
 - I like the tactile feeling of a mini keyboard
 - I wanted something small enough to fit into a pants pocket, so I can easily take it anywhere, but with a large enough screen to do useful things like writing little programs, running scripts, etc
 - I wanted to build this quickly & cheaply, with as many off-the-shelf components as possible
