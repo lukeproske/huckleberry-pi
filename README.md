@@ -1,3 +1,6 @@
+I made my own version of this build based on the original design by GitHub user samcervantes (https://github.com/samcervantes/bumble-berry-pi). I am working on updating this fork to reflect my changes. 
+
+Original README:
 ![bumbleberry-1-small](https://github.com/user-attachments/assets/0861c220-9c7e-4fc5-81a6-36195ce6dd99)
 
 [Youtube Video - How To Assemble the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
