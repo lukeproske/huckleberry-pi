@@ -1,81 +1,39 @@
-![bumbleberry-1-small](https://github.com/user-attachments/assets/0861c220-9c7e-4fc5-81a6-36195ce6dd99)
-
-[Youtube Video - How To Assemble the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
-
 # Bumble Berry Pi
-A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck
+A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck, customized to meet my personal needs. 
 
-# Why Build A Cyberdeck?
-- I wanted fully self-contained raspberry pi handheld device
-- I like the tactile feeling of a mini keyboard
-- I wanted something small enough to fit into a pants pocket, so I can easily take it anywhere, but with a large enough screen to do useful things like writing little programs, running scripts, etc
-- I wanted to build this quickly & cheaply, with as many off-the-shelf components as possible
-- I mostly boot to the terminal interface (using tmux to manage mutliple terminal windows), but I occasionally use the GUI
-- I wanted to use the Raspberry Pi's I already owned (i.e. an old 3b+), rather than having to buy a new compute module
 
-# Key Features
-- 4.3” Touch Screen Display
-- Nice sized QWERTY keypad
-- 37 Watt-hour battery (all day battery life with Raspberry Pi 3b+)
-- Only 2 3D-Printed Parts
-- Able to use a Rapsberry Pi that you probably already own
-- Quick & easy to assemble: ~5 minutes (excluding 3D printing time): [Assembly Video](https://www.youtube.com/watch?v=gBCb1FS4pzc)
-- All parts available on Amazon (excluding 3D printed parts)
-- Cost: ~$60 worth of Amazon parts, not including the raspberry pi, bolts, & kapton tape.
+# Credits
+This design is based on the bumble-berry-pi project by GitHub user samcervantes (https://github.com/samcervantes/bumble-berry-pi). With the help of https://github.com/impy2eyes, I redesigned the case and 3D models from the ground up to better fit my needs. 
+
+
+# Changes
+- To reduce costs, I wanted to use a Raspberry Pi 5 (8GB RAM) that I already owned. The case is specifically designed for a Raspberry Pi 5 and may not work with other variants.
+- I tried to find ways to reduce the cost, such as removing the requirement for the threaded inserts. It was also cheaper to purchase a two pack of right angle USB-C adapters rather than buying one and a U-shaped adapter. 
+- The case can be easily opened to access the Raspberry Pi if needed. There is also a cover that can be removed to access the GPIO pins.
+- The case folds, although this can not be done while the battery is connected. This helps to protect the screen during transportation.
+
 
 # Parts List
-*As an Amazon Associate I earn from qualifying purchases*
-| Part | QTY | Cost | Buy Link | Notes |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Raspberry Pi | 1 | $53-$87 | [Pi 3b+](https://amzn.to/48danKa), [Pi 4](https://amzn.to/4oCPuxP), or [Pi 5](https://amzn.to/4hYrimS) | Pick your favorite Pi Model. I personally prefer a 3b+ for low cost and low power usage because I mostly use terminal and only occasionally use the GUI. |
-| SD Card | 1 | $20 | [Amazon](https://amzn.to/3LFhqTe) | In case you don't already have one |
-| 4.3” Touch Screen Display | 1 | $38 | [Amazon](https://amzn.to/43xmWNH) | This Freenove screen has a nice bright display and is pretty durable |
-| Mini Bluetooth keyboard | 1 | $23 | [Amazon](https://amzn.to/4oGfgkX) | This keyboard connects to the pi via bluetooth. This has a number of benefits, including minimizing the cabling required. I was initially skeptical at using a Bluetooth keyboard, but I found this one works surprisingly well. |
-| 37 Watt-Hr USB Power Bank | 1 | $19 | [Amazon](https://amzn.to/3LCkwY6) | Includes a short USB-C power cable |
-| USB-C to Micro-USB U-Shaped Adapter | 1 | $10 | [Amazon](https://amzn.to/49fzCMZ) | This comes in a variety-pack, however, you only need one specific part. You could probably find a cheaper one. |
-| USB-C Right Angle Adapter | 1 | $9 | [Amazon](https://amzn.to/4oeygGd) | You could probably find a cheaper one, but this one looks nice |
-| M3x10mm Countersunk Head Bolt | 6 | $6 per pack of 50 | [Amazon](https://amzn.to/4oQzWH2) |  |
-| M2.5x8mm Socket Head Bolt | 4 | $6 per pack of 50| [Amazon](https://amzn.to/4pdl6Kn) |  |
-| M3 Threaded Inserts | 6 | $7 per pack of 100 | [Amazon](https://amzn.to/4nOlhul) |  |
-| 2" Kapton Tape | 1 ft | $12 per 100ft roll | [Amazon](https://amzn.to/4qZJdhe) | I prefer Kapton tape, although you could use another type of double-sided tape |
-| bumble-berry-pi-enclosure-A-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-A-v3.STL) | Download from this repo an print on a 3D printer using [PLA](https://amzn.to/3X469hD) |
-| bumble-berry-pi-enclosure-B-v3.STL | 1 |  | [Github](https://github.com/samcervantes/bumble-berry-pi/blob/main/bumble-berry-pi-enclosure-B-v3.STL) | Download from this repo an print on a 3D printer using PLA |
+
+| Part | Link | Notes |
+| ----------- | ----------- | ----------- |
+| Raspberry Pi 5 | [8 GB](https://www.amazon.com/Raspberry-Pi-8GB-SC1112-Quad-core/dp/B0CK2FCG1K) | Options with more or less ram should work too. The case is designed specifically for the Raspberry Pi 5, so other models will likely not work without modification. |
+| Micro SD Card | Many options available on Amazon | I used a 128 GB Micro SD card that I had previously received from a Raspberry Pi kit. |
+| Raspberry Pi 5 Active Cooler (fan) | [Amazon](https://www.amazon.com/dp/B0D41NH1S8) | Raspberry Pi 5's need a fan to keep them cool, otherwise performance throttling is likely to occur. |
+| FREENOVE 4.3 Inch Touchscreen Monitor (Same as original design) | [Amazon](https://www.amazon.com/dp/B0DDC4KKKF) | This is a decent sized touchscreen monitor for the price. |
+| Mini Keyboard | [Amazon](https://www.amazon.com/dp/B0B46F8RS6) | A mini keyboard that is the right size. I was initially concerned about it being Bluetooth, but it seems to work well and removes the need for a dongle. |
+| 5V USB Power Bank | [Amazon](https://www.amazon.com/dp/B0CB1FW5FC) | This one only supplies 3A instead of 5A (see Known Issues section), but for most situations it works well. It lasts a long time and has an indicator to show the charge remaining. |
+| Two Pack of USB-C Right Angle Adapters | [Amazon](https://www.amazon.com/dp/B0F6MLJ7SP) | To save costs, the case was redesigned so that a two pack of these replace the two different adapters in the original design. |
+| 3D Printed Case | See the .stl and .step files | Printed using clear PETG. |
 
 
-# Tools Required
-- Small phillips screw driver
-- M2.5mm hex driver: [Individual Driver](https://amzn.to/4qYnwyh), [My Favorite Kit](https://amzn.to/443yxnS)
-- Soldering iron (for installing the threaded inserts into the 3D printed parts): [Basic](https://amzn.to/3LQfKpT), [Premium - My Favorite](https://amzn.to/47LmWw4)
-- Scissors
+# Operating System
+I wanted my version to be able to serve as a portable penetration testing tool to learn ethical hacking. I installed Kali Linux, which has a version for ARM architecture that can be downloaded from their website (https://www.kali.org/) or within the Raspberry Pi Imager. I switched to KDE Plasma for the desktop environment, which works well with the touchscreen.
 
-# Assembly Instructions - Videos
-1. First, install the threaded inserts into the front enclosure part A. I forgot to include this in my assembly video below, so here is a generic video on how to install threaded inserts into a 3D printed part: [Youtube Video - How To Install Threaded Inserts](https://www.youtube.com/shorts/iar6NPHNPfY)
-2. [Youtube Video - How To Assemble the Bumble Berry Pi](https://www.youtube.com/watch?v=gBCb1FS4pzc)
 
-# Assembly Instructions - Detailed
-1. 3D print the two enclosure parts in PLA
-2. Insert the 6 threaded inserts using a soldering iron (I always love this part). If you haven't done this before, here is a short youtube video showing how: [Youtube Video - How To Install Threaded Inserts](https://www.youtube.com/shorts/iar6NPHNPfY)
-3. Attach the raspberry pi to the screen using 4 phillips screws
-4. Plug the ribbon cable into the rapsberry pi & display
-5. Attach the screen to the front enclosure (Part A) using 4 M2.5x6mm socket head bolts
-6. Attach the usb-c power cable to the rapsberry pi USB-micro power connector using the 180deg USB-C to USB-micro adapter. Route the USB-C cable through the side port as shown in the video.
-7. Attach the 90deg USB-C adapter to the end of the power cable
-8. Place the front enclosure (Part A) face down on the table and insert the keyboard
-9. Add a piece of double-sided kapton tape to the back of the keyboard
-10. Place the USB power bank in the front enclosure in the proper orientation so that the battery status indicator will be visible through the hole in the back panel (Part A)
-11. Add a piece of double-sided kapton tape to the back of the power bank
-12. Screw the enclosure back (Part B) onto the enclosure front (Part A)using 6 M3x10mm countersunk head bolts
-
-# Setup instructions
-Note: You might find it helpful to plug in an external USB keyboard to the Pi for the initial setup
-1. Install Raspberry PI OS onto an SD card using the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). I recommend Raspberry Pi OS with Raspberry Pi Desktop
-2. Insert the SD card into the Raspberry Pi and power-on the pi by plugging in the USB-C power cable into the power bank
-3. Using the desktop interface, pair your Bluetooth keyboard to the Pi
-4. Connect your pi to the wifi network
-5. If you're using a Rapsberry Pi 3b+, I recommend setting your Pi to boot to command line in raspbi-config
-
-# Design Notes
-I designed the 3D parts in Solidworks. Let me know if you're interested in the modifying the design and I can post the solidworks files.
-
-<img width="500" alt="BumbleBerryPi" src="https://github.com/user-attachments/assets/aef40629-dcd0-4ca7-b8af-2083a04ff01f" />
-
+# Known Issues
+- The battery does not fit snugly into the case, making it difficult to press its button. This issue can be fixed by adding a piece of tape as a spacer.
+- My print used clear filament. The Raspberry Pi's light will not be visible with opaque filament. 
+- The screen works for the booting process but goes black at the login screen. After blindly typing the password, the screen starts working again. This is most likely a software issue caused by Kali Linux, KDE Plasma, or the display manager. I am attempting to discover a solution, but the Cyberdeck is still perfectly usable. For now, lets just call it a "security feature."
+- The battery pack can only supply 3 amps when running at 5 volts, but the recommended power for a Raspberry Pi 5 is 5V 5A. For most situations, this does not cause a problem; however, booting from USB devices is disabled and problems may be encountered when high power is needed (such as running USB devices).
+- When something is plugged into or unplugged from the battery pack, it renegotiates all connections, causing the Pi to lose power momentarily and shut down unexpectedly. After starting the Pi, do not try to plug or unplug any power connections (including trying to charge the battery) without safely shutting down first.
