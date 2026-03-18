@@ -1,12 +1,12 @@
 ![huckleberry_pi](https://github.com/user-attachments/assets/fd5df14a-06ea-4e48-9721-c578457ffb42)
 
 
-# Bumble Berry Pi
+# Huckleberry Pi
 A cheap, easy-to-build Raspberry Pi Handheld Cyberdeck, customized to meet my personal needs. 
 
 
 # Credits
-This design is based on the bumble-berry-pi project by GitHub user samcervantes (https://github.com/samcervantes/bumble-berry-pi). With the help of https://github.com/impy2eyes, I redesigned the case and 3D models from the ground up to better fit my needs. 
+This design is based on the bumble-berry-pi project by GitHub user samcervantes (https://github.com/samcervantes/bumble-berry-pi). With the help of [@impy2eyes](https://github.com/impy2eyes), I redesigned the case and 3D models from the ground up to better fit my needs. 
 
 
 # Changes
