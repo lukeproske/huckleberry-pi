@@ -22,7 +22,7 @@ This design is based on the bumble-berry-pi project by GitHub user samcervantes 
 | ----------- | ----------- | ----------- |
 | Raspberry Pi 5 | [8 GB](https://www.amazon.com/Raspberry-Pi-8GB-SC1112-Quad-core/dp/B0CK2FCG1K) | Options with more or less ram should work too. The case is designed specifically for the Raspberry Pi 5, so other models will likely not work without modification. |
 | Micro SD Card | Many options available on Amazon | I used a 128 GB Micro SD card that I had previously received from a Raspberry Pi kit. |
-| Raspberry Pi 5 Active Cooler (fan) | [Amazon](https://www.amazon.com/dp/B0D41NH1S8) | Raspberry Pi 5's need a fan to keep them cool, otherwise performance throttling is likely to occur. |
+| Raspberry Pi 5 Active Cooler (fan) | [Amazon](https://www.amazon.com/dp/B0D41NH1S8) | Raspberry Pi 5s need a fan to keep them cool, otherwise performance throttling is likely to occur. |
 | FREENOVE 4.3 Inch Touchscreen Monitor (Same as original design) | [Amazon](https://www.amazon.com/dp/B0DDC4KKKF) | This is a decent sized touchscreen monitor for the price. |
 | Mini Keyboard | [Amazon](https://www.amazon.com/dp/B0B46F8RS6) | A mini keyboard that is the right size. I was initially concerned about it being Bluetooth, but it seems to work well and removes the need for a dongle. |
 | 5V USB Power Bank | [Amazon](https://www.amazon.com/dp/B0CB1FW5FC) | This one only supplies 3A instead of 5A (see Known Issues section), but for most situations it works well. It lasts a long time and has an indicator to show the charge remaining. |
