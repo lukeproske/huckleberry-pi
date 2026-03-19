@@ -27,7 +27,7 @@ This design is based on the bumble-berry-pi project by GitHub user samcervantes 
 | Mini Keyboard | [Amazon](https://www.amazon.com/dp/B0B46F8RS6) | A mini keyboard that is the right size. I was initially concerned about it being Bluetooth, but it seems to work well and removes the need for a dongle. |
 | 5V USB Power Bank | [Amazon](https://www.amazon.com/dp/B0CB1FW5FC) | This one only supplies 3A instead of 5A (see Known Issues section), but for most situations it works well. It lasts a long time and has an indicator to show the charge remaining. |
 | Two Pack of USB-C Right Angle Adapters | [Amazon](https://www.amazon.com/dp/B0F6MLJ7SP) | To save costs, the case was redesigned so that a two pack of these replace the two different adapters in the original design. |
-| 3D Printed Case | See the .stl and .step files in the repository files, or open the [Onshape file](https://cad.onshape.com/documents/31c4b900c047e52afdb9c84d/w/826597ba6d27ebd8b25a076d/e/5605ade155a4aaf377e36da3?renderMode=0&uiState=69bc147e97fcea520ebc5c26) (online CAD program)  | Printed using clear PETG. |
+| 3D Printed Case | See the .stl and .step files in the repository files | Printed using clear PETG. To view the model in Onshape (online CAD program), paste this link in a new tab (otherwise it will give a 403 error): https://cad.onshape.com/documents/31c4b900c047e52afdb9c84d/w/826597ba6d27ebd8b25a076d/e/5605ade155a4aaf377e36da3?renderMode=0&uiState=69bc147e97fcea520ebc5c26 |
 
 
 # Operating System
